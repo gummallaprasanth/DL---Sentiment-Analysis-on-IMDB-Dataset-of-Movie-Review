@@ -1,4 +1,4 @@
-# Sentiment Analysis on IMDB Dataset of Movie Reviews 
+# Sentiment Analysis on IMDB Dataset of Movie Reviews (LSTM)
 
 ## Overview
 
